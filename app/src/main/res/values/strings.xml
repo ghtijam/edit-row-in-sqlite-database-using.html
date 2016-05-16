@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">Edit row in SQLite database using SQLiteDatabase.update()</string>
+</resources>
